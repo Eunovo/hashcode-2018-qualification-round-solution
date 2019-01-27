@@ -8,4 +8,4 @@ Import project into Netbeans IDE and build.
 
 Find built jar in {project-path}/dist
 
-Run *java -jar {jar-file-name}.jar input-file-path output-file-path
+Run   java -jar {jar-file-name}.jar input-file-path output-file-path
