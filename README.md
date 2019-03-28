@@ -7,12 +7,12 @@ Please find problem statement in hashcode_files/hashcode2018_qualification_task.
 Java 8 or newer must be installed
 
 Download the release jar
-Run   java -jar HashCode2018Qualification.jar (input-file-path) (output-file-path)
+Run   <code>java -jar HashCode2018Qualification.jar (input-file-path) (output-file-path)</code>
 
 Or
 
-Import project into Netbeans IDE and build.
+Import project into Netbeans IDE and run build.
 
-Find built jar in {project-path}/dist
+Find built jar in <code>{project-path}/dist</code>
 
-Run   java -jar {jar-file-name}.jar (input-file-path) (output-file-path)
+Run   <code>java -jar {jar-file-name}.jar (input-file-path) (output-file-path)</code>
